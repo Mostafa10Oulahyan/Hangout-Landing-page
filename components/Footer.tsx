@@ -6,8 +6,8 @@ export function Footer() {
             <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
                 <div className="col-span-1 md:col-span-1">
                     <Link href="/" className="flex items-center gap-2 mb-4">
-                        <img src="/hangout-removebg-preview.png" alt="Hangout" className="h-9 w-auto object-contain" />
-                        {/* <span className="text-2xl font-bold text-white">Hangout</span> */}
+                        <img src="/HangoutBff-removebg-preview.png" alt="HangoutBff" className="h-9 w-auto object-contain" />
+                        {/* <span className="text-2xl font-bold text-white">HangoutBff</span> */}
                     </Link>
                     <p className="text-gray-400 text-sm leading-relaxed">
                         Helping you find your people and create meaningful memories in the real world.
@@ -42,7 +42,7 @@ export function Footer() {
 
             <div className="max-w-7xl mx-auto pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
                 <p className="text-gray-500 text-sm">
-                    © {new Date().getFullYear()} Hangout Inc. All rights reserved.
+                    © {new Date().getFullYear()} HangoutBff Inc. All rights reserved.
                 </p>
                 <div className="flex gap-4">
                     <Link href="#" className="text-gray-400 hover:text-white transition-colors">

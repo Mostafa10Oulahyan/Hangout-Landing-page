@@ -148,11 +148,11 @@ export default function SafetyPage() {
                         <p className="text-gray-500 text-center mb-8">for questions or feedback, reach out to</p>
 
                         <a
-                            href="mailto:support@hangout.com"
+                            href="mailto:support@hangoutbff.me"
                             className="flex items-center justify-center gap-2 text-lg font-semibold text-blue-600 hover:text-blue-700 transition-colors mb-10 py-3 px-6 rounded-xl bg-blue-50 hover:bg-blue-100 mx-auto w-fit"
                         >
                             <Mail className="w-5 h-5" />
-                            support@hangout.com
+                            support@hangoutbff.me
                         </a>
 
                         <div className="text-center">

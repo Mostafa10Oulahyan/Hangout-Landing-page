@@ -3,7 +3,7 @@
 import React from "react";
 import { cn } from "@/lib/utils";
 
-const hangouts = [
+const HangoutBffs = [
     {
         title: "Drunk in London",
         location: "GB England",
@@ -49,13 +49,13 @@ const hangouts = [
 ];
 
 // Duplicate the list for infinite scroll effect
-const allHangouts = [...hangouts, ...hangouts, ...hangouts];
+const allHangoutBffs = [...HangoutBffs, ...HangoutBffs, ...HangoutBffs];
 
 export function HappeningNow() {
     return (
         <section className="py-12 bg-white overflow-hidden">
             <h2 className="text-3xl md:text-4xl font-extrabold text-center text-gray-900 mb-10 tracking-tight">
-                join hangouts happening now
+                join HangoutBffs happening now
             </h2>
 
             <div className="relative w-full">
@@ -64,7 +64,7 @@ export function HappeningNow() {
                 <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
 
                 <div className="flex animate-scroll hover:pause whitespace-nowrap gap-6 w-max">
-                    {allHangouts.map((item, index) => (
+                    {allHangoutBffs.map((item, index) => (
                         <div
                             key={index}
                             className="relative flex-shrink-0 w-64 h-64 rounded-2xl overflow-hidden cursor-pointer group"

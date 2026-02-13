@@ -11,7 +11,7 @@ const reviews = [
         name: "Mia R.",
         avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=100",
         rating: 5,
-        text: "I decided to finally stop waiting for my friends, and went on a trip alone to Thailand. I was TERRIFIED. But with Hangout I was able to meet others so easily and was never alone on my trip, everyday there was something to do and people to meet. BEST APP EVER.",
+        text: "I decided to finally stop waiting for my friends, and went on a trip alone to Thailand. I was TERRIFIED. But with HangoutBff I was able to meet others so easily and was never alone on my trip, everyday there was something to do and people to meet. BEST APP EVER.",
     },
     {
         name: "Max K.",
@@ -23,7 +23,7 @@ const reviews = [
         name: "Sarah L.",
         avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=100",
         rating: 5,
-        text: "Moved to a new city and didn't know anyone. Hangout helped me find my people within the first week. Now I have an amazing friend group and we hang out every weekend!",
+        text: "Moved to a new city and didn't know anyone. HangoutBff helped me find my people within the first week. Now I have an amazing friend group and we hang out every weekend!",
     },
     {
         name: "James T.",
@@ -35,7 +35,7 @@ const reviews = [
         name: "Carlos D.",
         avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=100",
         rating: 5,
-        text: "Solo travel was intimidating until Hangout. Met incredible people in Barcelona, Tokyo, and Bali. It's like having friends everywhere you go. Absolutely love it!",
+        text: "Solo travel was intimidating until HangoutBff. Met incredible people in Barcelona, Tokyo, and Bali. It's like having friends everywhere you go. Absolutely love it!",
     },
 ];
 

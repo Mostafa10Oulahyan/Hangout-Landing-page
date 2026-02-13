@@ -124,7 +124,7 @@ export default function BlogPage() {
                                                 className="flex flex-col px-5 py-3 hover:bg-gray-50 transition-colors border-b border-gray-100 last:border-b-0"
                                             >
                                                 <span className="font-semibold text-gray-900 text-sm">
-                                                    {post.title} <span className="text-xs text-gray-400 font-normal">{post.countryCode}</span> — Hangout Blog
+                                                    {post.title} <span className="text-xs text-gray-400 font-normal">{post.countryCode}</span> — HangoutBff Blog
                                                 </span>
                                                 <span className="text-xs text-gray-400 mt-0.5">/blog/{post.slug}</span>
                                             </Link>

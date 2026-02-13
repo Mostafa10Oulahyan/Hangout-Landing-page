@@ -97,7 +97,7 @@ export default function AboutPage() {
             <section className="bg-white py-20 px-4">
                 <div className="max-w-3xl mx-auto prose prose-lg prose-blue text-gray-600 leading-relaxed">
                     <p className="text-xl font-medium text-gray-800 mb-8">
-                        Hangout was created for people who don’t want to wait anymore.
+                        HangoutBff was created for people who don’t want to wait anymore.
                         Wait for the “right time.”
                         Wait for the “right people.”
                         Wait for life to start.
@@ -106,7 +106,7 @@ export default function AboutPage() {
                         We believe life is meant to be lived out there — exploring new places, meeting new faces, and sharing real moments. Too often, great plans never happen simply because there’s no one to go with.
                     </p>
                     <p>
-                        Hangout brings people together beyond screens. It helps you connect with like-minded people, form genuine friendships, and turn ideas into real experiences. Whether it’s traveling to a new city, joining a local group, or planning your next adventure, Hangout is built to make it easier — and safer — to do it together.
+                        HangoutBff brings people together beyond screens. It helps you connect with like-minded people, form genuine friendships, and turn ideas into real experiences. Whether it’s traveling to a new city, joining a local group, or planning your next adventure, HangoutBff is built to make it easier — and safer — to do it together.
                     </p>
 
                     <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-10 rounded-r-xl">

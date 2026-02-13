@@ -13,8 +13,8 @@ export function Navbar() {
                     <div className="flex-shrink-0">
                         <Link href="/" className="flex items-center">
                             <img
-                                src="/hangout-removebg-preview.png"
-                                alt="Hangout"
+                                src="/HangoutBff-removebg-preview.png"
+                                alt="HangoutBff"
                                 className="h-9 w-auto object-contain"
                             />
                         </Link>

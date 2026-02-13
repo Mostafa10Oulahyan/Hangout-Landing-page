@@ -77,7 +77,7 @@ const ProfileCardComponent: React.FC<ProfileCardProps> = ({
     miniAvatarUrl,
     name = 'Team Member',
     title = 'Role',
-    handle = 'hangout',
+    handle = 'HangoutBff',
     status = 'Online',
     contactText = 'Contact',
     showUserInfo = true,

@@ -10,11 +10,11 @@ const faqs = [
         answer: "Yes! We prioritize safety with verified profiles, community guidelines, and features like group-only initial meetups to ensure a secure environment."
     },
     {
-        question: "Is Hangout free?",
-        answer: "Hangout is free to download and use. You can join groups, chat, and attend events without paying a dime. We also offer premium features for power users."
+        question: "Is HangoutBff free?",
+        answer: "HangoutBff is free to download and use. You can join groups, chat, and attend events without paying a dime. We also offer premium features for power users."
     },
     {
-        question: "What cities is Hangout available in?",
+        question: "What cities is HangoutBff available in?",
         answer: "We are active in major global cities including London, New York, Berlin, and Tokyo, expanding to new locations monthly."
     },
     {

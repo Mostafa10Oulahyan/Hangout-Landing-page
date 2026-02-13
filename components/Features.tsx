@@ -7,7 +7,7 @@ const features = [
         icon: <Users className="w-6 h-6 text-blue-600" />,
     },
     {
-        title: "Plan Real Hangouts",
+        title: "Plan Real HangoutBffs",
         description: "Create or join events with set times and locations. No flaky plans.",
         icon: <Calendar className="w-6 h-6 text-blue-600" />,
     },
