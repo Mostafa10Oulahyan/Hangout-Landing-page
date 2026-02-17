@@ -6,7 +6,7 @@ export function Footer() {
             <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
                 <div className="col-span-1 md:col-span-1">
                     <Link href="/" className="flex items-center gap-2 mb-4">
-                        <img src="/HangoutBff-removebg-preview.png" alt="HangoutBff" className="h-9 w-auto object-contain" />
+                        <img src="/logo.png" alt="HangoutBff" className="h-9 w-auto object-contain" />
                         {/* <span className="text-2xl font-bold text-white">HangoutBff</span> */}
                     </Link>
                     <p className="text-gray-400 text-sm leading-relaxed">
