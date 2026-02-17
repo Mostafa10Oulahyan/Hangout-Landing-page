@@ -25,7 +25,7 @@ export function Navbar() {
                         {[
                             { label: "Discover", href: "/" },
                             { label: "Safety", href: "/safety" },
-                            { label: "About Us", href: "/about" },
+                            // { label: "About Us", href: "/about" },
                             { label: "Blog", href: "/blog" },
                         ].map((item) => (
                             <Link
